@@ -34,8 +34,8 @@ Je travaille aussi sur plusieurs projets liés à **l’hébergement**, **le dé
 
 ## ⚙️ Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Exoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=Exoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=n1n00737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=nn1n00737&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
