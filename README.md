@@ -41,8 +41,12 @@ I also work on several projects related to **hosting**, **web development**, and
 
 ## ⚙️ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1n00737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1n00737&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1n00737&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1n00737&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1n00737&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=n1n00737&theme=tokyonight&hide_border=true&background=00000000)
 
 ---
 
