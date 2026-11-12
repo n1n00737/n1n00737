@@ -1,26 +1,26 @@
-# 👋 Salut, moi c’est **Clovis**
+# 👋 Hi, I'm **Clovis**
 
-> 💡 _“Créer, héberger, et optimiser — parce que tout mérite de tourner à la perfection.”_
-
----
-
-## 🚀 À propos de moi
-
-Je suis un passionné d’informatique et de technologie.  
-Je conçois, répare et optimise des systèmes — du montage de PC à la création de serveurs faits maison.  
-Je travaille aussi sur plusieurs projets liés à **l’hébergement**, **le développement web**, et **les solutions techniques sur mesure**.
-
-### 🔧 Mes activités :
-- 🌐 Fondateur de **[Exoo Cloud](https://exoo-cloud.fr)** — service d’hébergement et d’infrastructure cloud  
-- 🖥️ Montage et configuration d’ordinateurs sur mesure  
-- 🧠 Développement de bots, sites web et outils techniques  
-- 🏠 Gestion et hébergement de serveurs à domicile
+> 💡 _“Build, host, and optimize — because everything deserves to run seamlessly.”_
 
 ---
 
-## 🧰 Langages & Outils
+## 🚀 About Me
 
-### 💻 Langages
+I'm a computer science and technology enthusiast.  
+I design, repair, and optimize systems — from custom PC builds to homemade servers.  
+I also work on several projects related to **hosting**, **web development**, and **custom technical solutions**.
+
+### 🔧 What I Do:
+- 🌐 Founder of **[Exoo Cloud](https://exoo-cloud.fr)** — cloud hosting and infrastructure service  
+- 🖥️ Custom PC building and configuration  
+- 🧠 Development of bots, websites, and technical tools  
+- 🏠 Home server management and self-hosting
+
+---
+
+## 🧰 Languages & Tools
+
+### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -30,7 +30,7 @@ Je travaille aussi sur plusieurs projets liés à **l’hébergement**, **le dé
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🖥️ Environnement & Outils
+### 🖥️ Environment & Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -39,27 +39,27 @@ Je travaille aussi sur plusieurs projets liés à **l’hébergement**, **le dé
 
 ---
 
-## ⚙️ Statistiques GitHub
+## ⚙️ GitHub Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=n1n00737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=nn1n00737&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1n00737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1n00737&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
-## 🌍 Me retrouver
+## 🌍 Find Me
 🌐 [**Exoo Cloud**](https://exoo-cloud.fr)  
-💬 Discord — _projets, entraide, hébergement et discussions tech_  
-📧 Contact professionnel sur demande
+💬 Discord — _projects, community support, hosting, and tech discussions_  
+📧 Business inquiries available upon request
 
 ---
 
-## ❤️ Ce que j’aime faire
-- 🚀 Monter et optimiser des machines puissantes  
-- 🔒 Travailler sur la sécurité, les réseaux et les systèmes  
-- 🧩 Automatiser des tâches avec des scripts et des bots  
-- ☁️ Créer mes propres infrastructures d’hébergement  
-- 💡 Apprendre en continu et repousser mes limites  
+## ❤️ What I Love Doing
+- 🚀 Building and optimizing high-performance machines  
+- 🔒 Working on security, networking, and systems  
+- 🧩 Automating tasks with scripts and bots  
+- ☁️ Creating my own hosting infrastructures  
+- 💡 Continuously learning and pushing my limits  
 
 ---
 
-### ✨ _“La perfection n’est pas un but, c’est une habitude.”_
+### ✨ _“Perfection is not a goal, it’s a habit.”_
